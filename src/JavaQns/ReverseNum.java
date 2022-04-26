@@ -31,13 +31,19 @@ public class ReverseNum {
 		
 		//method 3 using String Builder:
 		
-		StringBuilder rev;
-		StringBuilder sbl=new StringBuilder();
+//		StringBuilder rev;
+//		StringBuilder sbl=new StringBuilder();
+//		
+//		sbl.append(num);
+//		rev= sbl.reverse();
+//		
+//		System.out.println(rev);
 		
-		sbl.append(num);
-		rev= sbl.reverse();
 		
-		System.out.println(rev);
+		
+		
+		
+		
 		
 		
 		
